@@ -1,0 +1,3 @@
+#!/home/calvin/Desktop/machine_music/venv/bin/python
+from numba.pycc import main
+main()

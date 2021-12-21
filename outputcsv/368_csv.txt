@@ -1,0 +1,18 @@
+0, 0, Header, 1, 2, 200
+1, 0, Start_track
+1, 0, Title_t, "GO!"
+1, 0, Time_signature, 4, 2, 24, 8
+1, 0, Key_signature, 0, "major"
+1, 0, Tempo, 350000
+1, 0, End_track
+2, 0, Start_track
+2, 322.0, Note_on_c, 0, 105.0, 80
+2, 402.0, Note_on_c, 0, 105.0, 0
+2, 863.0, Note_on_c, 0, 111.0, 80
+2, 943.0, Note_on_c, 0, 111.0, 0
+2, 1210.0, Note_on_c, 0, 74.0, 80
+2, 1290.0, Note_on_c, 0, 74.0, 0
+2, 4496.0, Note_on_c, 0, 17.0, 80
+2, 4576.0, Note_on_c, 0, 17.0, 0
+2, 4676.0, End_track
+0, 0, End_of_file
